@@ -1,0 +1,25 @@
+[
+
+    {
+        "id": "1",
+        "title":"Learn Javascript ",
+        "content":"Javascript is the main language for React Base develpment .So you must learn more about this language.This is most popular language for most developer.In the future the popularity will be increse more and more.",
+      "date":"14-08-2023"
+    },
+
+    
+    {
+       "id": "2",
+        "title":"Learn Next.js ",
+        "content":"Next.js is the future of of webdevelopment.Javascript is main language for React with next js develpment .So you must learn more about this language.This is most popular language for most developer.In the future the popularity will be increse more and more.",
+       "date":"15-08-2023"
+    },
+    
+    {
+       " id": "3",
+        "title":"Learn Database Prisma ",
+        "content":" Prisma is the ORM of database .You must learn Prisma for connicting database . Prisma has a good combination with nextjs .Javascript is the main language for React Base develpment .So you must learn more about this language.This is most popular language for most developer.In the future the popularity will be increse more and more.",
+      "date":"16-08-2023"
+    }
+
+]
